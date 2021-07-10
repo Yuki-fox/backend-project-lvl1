@@ -6,4 +6,8 @@
 
 [![Node CI](https://github.com/Yuki-fox/backend-project-lvl1/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/Yuki-fox/backend-project-lvl1/actions/workflows/github-actions-demo.yml)
 
+Brain even game promo:
 [![asciicast](https://asciinema.org/a/rgeduELArWAzZvD10QFrPFFPD.svg)](https://asciinema.org/a/rgeduELArWAzZvD10QFrPFFPD)
+
+Brain calc game promo:
+[![asciicast](https://asciinema.org/a/rxCZEZdguzuaVlhFdZNdxjyqt.svg)](https://asciinema.org/a/rxCZEZdguzuaVlhFdZNdxjyqt)

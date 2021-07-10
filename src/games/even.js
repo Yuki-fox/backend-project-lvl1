@@ -1,10 +1,6 @@
 import readlineSync from 'readline-sync';
-import _ from 'lodash';
-import answersCore from '../index.js';
+import { answersCore, randomNumber } from '../index.js';
 
-function randomNumber(min, max) {
-  return _.random(min, max);
-}
 function isEven(number) {
   return (number % 2 === 0);
 }
