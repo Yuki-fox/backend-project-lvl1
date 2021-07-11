@@ -6,11 +6,14 @@
 
 [![Node CI](https://github.com/Yuki-fox/backend-project-lvl1/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/Yuki-fox/backend-project-lvl1/actions/workflows/github-actions-demo.yml)
 
-Brain even game promo:
+Brain Even game promo:
 [![asciicast](https://asciinema.org/a/rgeduELArWAzZvD10QFrPFFPD.svg)](https://asciinema.org/a/rgeduELArWAzZvD10QFrPFFPD)
 
-Brain calc game promo:
+Brain Calc game promo:
 [![asciicast](https://asciinema.org/a/rxCZEZdguzuaVlhFdZNdxjyqt.svg)](https://asciinema.org/a/rxCZEZdguzuaVlhFdZNdxjyqt)
 
 Brain Greatest Common Divisor promo:
 [![asciicast](https://asciinema.org/a/psxpcZdjjUIzqVJKxFCI1boJb.svg)](https://asciinema.org/a/psxpcZdjjUIzqVJKxFCI1boJb)
+
+Brain Progression game promo:
+[![asciicast](https://asciinema.org/a/iLTDYqcaU18T82tXHB2ODvfdu.svg)](https://asciinema.org/a/iLTDYqcaU18T82tXHB2ODvfdu)
