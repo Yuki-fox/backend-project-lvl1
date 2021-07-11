@@ -17,3 +17,6 @@ Brain Greatest Common Divisor promo:
 
 Brain Progression game promo:
 [![asciicast](https://asciinema.org/a/iLTDYqcaU18T82tXHB2ODvfdu.svg)](https://asciinema.org/a/iLTDYqcaU18T82tXHB2ODvfdu)
+
+Brain isPrime game promo:
+[![asciicast](https://asciinema.org/a/Zx3nizAz04X9eiUBxDqpTqKo0.svg)](https://asciinema.org/a/Zx3nizAz04X9eiUBxDqpTqKo0)
