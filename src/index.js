@@ -7,9 +7,7 @@ function randomNumber(min, max) {
 function answersCore(gameFunction) {
   let i = 1;
   while (i <= 3) {
-    const gameCallback = gameFunction();
-    const answer = gameCallback[0];
-    const answerCheck = gameCallback[1];
+    const [answer, answerCheck] = gameFunction();
     console.log(`Your answer: ${answer}`);
     if (answer === answerCheck) {
       console.log('Correct!');
