@@ -18,4 +18,4 @@ function brainEven() {
   answersCore(brainEvenCore);
 }
 
-export default brainEven;
+export { brainEven, isEven };
