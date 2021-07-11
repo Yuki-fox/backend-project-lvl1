@@ -11,3 +11,6 @@ Brain even game promo:
 
 Brain calc game promo:
 [![asciicast](https://asciinema.org/a/rxCZEZdguzuaVlhFdZNdxjyqt.svg)](https://asciinema.org/a/rxCZEZdguzuaVlhFdZNdxjyqt)
+
+Brain Greatest Common Divisor promo:
+[![asciicast](https://asciinema.org/a/psxpcZdjjUIzqVJKxFCI1boJb.svg)](https://asciinema.org/a/psxpcZdjjUIzqVJKxFCI1boJb)
